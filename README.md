@@ -1,3 +1,2 @@
-# Javlin
-Offical Javlin Website 
+# React Template
 Made using React
